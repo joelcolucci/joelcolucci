@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Engineers' Club and Dock of the Bay
+- 🔭 I’m currently working on Engineers' Club and Stacked Software
 - 💬 Ask me about New York City
 - 📫 How to reach me: joelcolucci@hey.com
 
