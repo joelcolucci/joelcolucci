@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Engineers' Club and Stacked Software
+- 🔭 I’m currently building **parkrow labs** and running community at Engineers' Club
 - 💬 Ask me about New York City
 - 📫 How to reach me: joelcolucci@hey.com
 
